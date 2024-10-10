@@ -1,0 +1,15 @@
+//
+//  CardsViewModel.swift
+//  CreditCards
+//
+//  Created by Marcos Manzo.
+//
+
+
+import SwiftUI
+
+struct ContentView: View {
+    var body: some View {
+       Home()
+    }
+}
